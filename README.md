@@ -1,3 +1,5 @@
+Unzip public.zip after pull
+
 
     //                      //
     // hackathon to do list //
